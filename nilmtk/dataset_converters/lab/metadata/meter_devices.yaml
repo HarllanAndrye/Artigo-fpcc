@@ -1,6 +1,6 @@
-eMonitor:
-  model: eMonitor
-  manufacturer: Powerhouse Dynamics
+Meter:
+  model: Meter
+  manufacturer: UFCG
   manufacturer_url: http://somepage.com
   description: >
     Dados separados por aparelho.
@@ -15,7 +15,7 @@ eMonitor:
 
 LAB_whole_house:
   description: >
-    Dados da casa completa coletado em laboratorio.
+    Dados da casa completa coletados em laboratorio.
   sample_period: 1
   max_sample_period: 20
   measurements:

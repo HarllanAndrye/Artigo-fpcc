@@ -12,10 +12,10 @@ timezone: America/Fortaleza   # UFCG
 geo_location:
   locality: Campina Grande   # cidade
   country: BR   # Brasil
-  latitude: -7.2174594 # UFCG coordenadas
+  latitude: -7.2174594 # UFCG coodenadas
   longitude: -35.9096713
 related_documents:
 - http://somepage.br
 - >
   LAB: Dataset do laboratorio.
-schema: https://github.com/HarllanAndrye
+schema: https://github.com/harllan

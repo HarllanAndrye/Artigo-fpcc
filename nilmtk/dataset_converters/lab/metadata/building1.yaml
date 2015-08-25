@@ -4,11 +4,11 @@ elec_meters:
   1: &lab_whole_house 
     site_meter: true
     device_model: LAB_whole_house
-  2: &emonitor
+  2: &meter
     submeter_of: 0 
-    device_model: eMonitor
-  3: *emonitor
-  4: *emonitor
+    device_model: Meter
+  3: *meter
+  4: *meter
 
 appliances:
 - original_name: Shower
